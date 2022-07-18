@@ -14,7 +14,12 @@ Example Output
 
 ![image](https://user-images.githubusercontent.com/97081479/179442320-d74a4671-aba0-4a3e-9e41-449bc61c7e99.png)
 
+![image](https://user-images.githubusercontent.com/97081479/179442709-f012e5fd-1368-49ce-a0ef-4e5b6da08a66.png)
+
+![image](https://user-images.githubusercontent.com/97081479/179442654-f814aea9-6fab-4ed7-a060-c4694ccb79ff.png)
+
 ![image](https://user-images.githubusercontent.com/97081479/179442434-38c24359-b1c4-4ffc-8285-825f9e5e99aa.png)
 
 ![image](https://user-images.githubusercontent.com/97081479/179442442-b3289d66-0c6c-41d7-939f-5eb00070b300.png)
+
 
